@@ -16,4 +16,10 @@
 
 
 ## II. Literals
+<p>Values of different datatypes are called <b>literals</b>.</p>
+<p><b>Integer Literals</b></p>
+<p>0, 1, 3, 10, 1000, 1500</p>
+<p>For more readability we an use ' _ ' symbol. <b>Example:</b> 1000235745 -> 1_000_235_745</p>
+<hr>
+<p><b>Character Literals</b></p>
 
