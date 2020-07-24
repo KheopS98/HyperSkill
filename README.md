@@ -2,7 +2,7 @@
 <p>Link: <link>https://hyperskill.org/curriculum</link></p>
 
 ## I. Introduction to Java
-<pre>
+
 <p><b>Key Feture:</b> Platform independence "Write once, Run anywhere"</p>
 <p><b>Used:</b> Android, Finacial Service Industry, Telecomunication, Embedded Systems, Medical Applications.</p>
 <p><b>Java has:</b> Garbage Collector-> Automatic cleans the memory from unused ubjects during runtime.</p>
@@ -13,7 +13,7 @@
   <li>Concurrent Programming</li>
   <li>Functional Programming</li>
 </ul>
-</pre>
+
 
 ## II. Literals
 
