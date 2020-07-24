@@ -6,12 +6,12 @@
 <p><code>Key Feture:</code> Platform independence "Write once, Run anywhere"</p>
 <p><code>Used:</code> Android, Finacial Service Industry, Telecomunication, Embedded Systems, Medical Applications.</p>
 <p><code>Java has:</code> Garbage Collector-> Automatic cleans the memory from unused ubjects during runtime.</p>
-<p><code>Primary </code> an imperativ language based on OOP concepts: almost every part of the program is an object. U can say it's a full interaction between objects.</p>
+<p><code>Primary</code> an imperativ language based on OOP concepts: almost every part of the program is an object. U can say it's a full interaction between objects.</p>
 <p><code>Support Modern Programming Paradigms:</code></p>
 <ul>
-  <li><code>Generic Programming</li>
-  <li><code>Concurrent Programming</code></li>
-  <li><code>Functional Programming</code></li>
+  <li>Generic Programming</li>
+  <li>Concurrent Programming</li>
+  <li>Functional Programming</li>
 </ul>
 
 
