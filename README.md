@@ -1,2 +1,2 @@
 # JetBrains Academy HyperSkill Java Developer
-<link>https://hyperskill.org/curriculum</link>
+<p>Link: <link>https://hyperskill.org/curriculum</link></p>
