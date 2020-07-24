@@ -69,8 +69,8 @@ class Main{
 } </code></pre>
 <p><b>1. public class</b></p>
 <p>It's the basic unit of program. Every Java program must have at least one class.</p>
-<p>A <b>class</b> can have any name <code>'App'</code>, 'Main', 'Program' but it must not start with  a digit.</p>
-<p>A set of Braches enclose the body of a class.</p>
+<p>A <b>class</b> can have any name <code>'App'</code>, <code>'Main'</code>, <code>'Program'</code> but it must not start with  a digit.</p>
+<p>A set of <code>Braches {...}</code> enclose the body of a class.</p>
 
   
   
