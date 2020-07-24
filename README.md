@@ -22,7 +22,7 @@
 <p>For more readability we an use ' _ ' symbol. <b>Example:</b> 1000235745 -> 1_000_235_745</p>
 <hr>
 <p><b>Character Literals</b></p>
-<p>A single character represent a letter , a number, a symbol using a <b>Single Quote<b> 'A', 'C', '7', '!', '$', " ", '_'.</p>
+<p>A single character represent a letter , a number, a symbol using a <b>Single Quote</b> 'A', 'C', '7', '!', '$', " ", '_'.</p>
 <p>Don't confuse <b>7</b> with <b>'7'</b> those are not the same.</p>
 <p>A Character can't include 2 or more digits, letters, symbols because it represent only one Character.</p>
 <p><b>Incorrect Character Liteals:</b> '123', 'abc'</p>
