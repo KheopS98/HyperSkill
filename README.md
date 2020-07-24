@@ -58,6 +58,19 @@ class Main{
 <p><b>Identifier:</b> a word that refer to something in the program(such as variable name or function name).</p>
 <p><b>Comment:</b> a textual explanation of what code does. Comments are ignored at runtine. Comments start with // single-line</p>
 <p><b>WhiteSpace:</b> all characters that are not visible(space, tab, newline).</p>
+<hr>
+
+## III.1 The HelloWorld Program under the Microscope
+<pre><code>
+class Main{
+    public static void main(String [] args){
+        System.out.println("Hello, Tony!");
+    }
+} </code></pre>
+<p><b>1. public class</b></p>
+<p>It's the basic unit of program. Every Java program must have at least one class.</p>
+<p>A <b>class</b> can have any name <code>'App'</code>, 'Main', 'Program' but it must not start with  a digit.</p>
+<p>A set of Braches enclose the body of a class.</p>
 
   
   
